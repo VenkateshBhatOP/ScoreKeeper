@@ -8,8 +8,6 @@ const p2b=document.querySelector("#p2Button");
 
 let count1=0;
 let count2=0;
-
-
 let max=5;
 
 let isGameOver=false;
